@@ -91,6 +91,4 @@ npm start
 
 ---
 
-## 📄 开源许可
 
-请添加您的项目许可证信息，例如 [MIT License](https://opensource.org/licenses/MIT)。
